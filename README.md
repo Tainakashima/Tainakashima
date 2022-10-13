@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tainakashima
-- 👀 I’m interested in Cyber Security, Web Development, and Game Development
+- 👀 I’m interested in Cyber Security, Web Development
 - 🌱 I’m currently learning HTML/CSS Python
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me nakastai000@gmail.com
